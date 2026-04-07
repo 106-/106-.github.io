@@ -40,17 +40,18 @@
     <!-- プロフィール部分を隠すためのクエリチェック -->
     <script>
       (function () {
-        // URL のクエリパラメータを取得
+        var h = window.location.hostname;
         var urlParams = new URLSearchParams(window.location.search);
-        // クエリに noProfile が含まれている場合
-        if (urlParams.has("noProfile")) {
-          document.addEventListener("DOMContentLoaded", function () {
+        document.addEventListener("DOMContentLoaded", function () {
+          if (h === "106-.github.io") {
+            document.title = "Welcome to 106-.github.io! ^._.^";
+            document.getElementById("panel-title").textContent = h;
+          }
+          if (urlParams.has("noProfile")) {
             var profileSection = document.getElementById("content");
-            if (profileSection) {
-              profileSection.style.display = "none";
-            }
-          });
-        }
+            if (profileSection) profileSection.style.display = "none";
+          }
+        });
       })();
     </script>
   </head>
@@ -61,7 +62,7 @@
       <div class="h-100 d-flex align-items-center justify-content-center">
         <div class="profile-panel">
           <div class="panel-header">
-            <span class="panel-title">t106.net</span>
+            <span class="panel-title" id="panel-title">t106.net</span>
           </div>
           <div class="panel-divider">
             <p class="panel-tagline">
