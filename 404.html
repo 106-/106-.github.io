@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nothing here.</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        background-color: #0e0e0e;
+        color: #c8c8c8;
+        font-family: "Courier New", Courier, monospace;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+
+      .container {
+        text-align: center;
+        padding: 2rem;
+      }
+
+      .cat {
+        font-size: 2.5rem;
+        letter-spacing: -0.1em;
+        margin-bottom: 1.2rem;
+        opacity: 0.85;
+      }
+
+      .message {
+        font-size: 0.85rem;
+        color: #adadad;
+        margin-bottom: 2rem;
+        line-height: 1.8;
+        max-width: 360px;
+      }
+
+      .divider {
+        width: 40px;
+        height: 1px;
+        background: #333;
+        margin: 0 auto 2rem;
+      }
+
+      .link-line {
+        font-size: 0.75rem;
+        color: #adadad;
+        letter-spacing: 0.08em;
+      }
+
+      .link-line a {
+        color: #e8e8e8;
+        text-decoration: none;
+        border-bottom: 1px solid #333;
+        padding-bottom: 1px;
+        font-weight: bold;
+        transition:
+          color 0.2s,
+          border-color 0.2s;
+      }
+
+      .link-line a:hover {
+        color: #ccc;
+        border-color: #666;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="cat">^._.^</div>
+      <p class="message" id="message"></p>
+      <div class="divider"></div>
+      <p class="link-line">
+        A place where something might be →
+        <a href="https://t106.net/">t106.net</a>
+      </p>
+    </div>
+    <script>
+      const messages = [
+        "Nothing here.<br><span style='white-space:nowrap'>A void so pure it forgets the name of emptiness.</span>",
+      ];
+      document.getElementById("message").innerHTML =
+        messages[Math.floor(Math.random() * messages.length)];
+    </script>
+  </body>
+</html>
