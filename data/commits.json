@@ -1,8 +1,44 @@
 [
   {
-    "repo": "106-/t106.net",
+    "repo": "106-/106-.github.io",
+    "message": "コミットウォッチの追記",
+    "sha": "08f95ca659d1b42e49b94819b0f2f3554cdc424d",
+    "date": "2026-04"
+  },
+  {
+    "repo": "106-/106-.github.io",
     "message": "404ページの追加",
-    "sha": "ce35128c8f6df88a4ac4d46fe55c66cb218f2da4",
-    "date": "2026-04-10"
+    "sha": "ce35128b09b9dd8bfe64ff8de3ef5ab73c0f4313",
+    "date": "2026-04"
+  },
+  {
+    "repo": "106-/106-.github.io",
+    "message": "どっちのページが開かれたのかをGAに登録",
+    "sha": "7c6f5922a4ceadc817415b50e1f5f959ff05f827",
+    "date": "2026-04"
+  },
+  {
+    "repo": "106-/106-.github.io",
+    "message": "Fix Sub-Link URL in README.md",
+    "sha": "e8bfa2c6125a3a15f4aee5addf724c1fdd6dc12b",
+    "date": "2026-04"
+  },
+  {
+    "repo": "106-/106-.github.io",
+    "message": "github.ioの場合とで記載を変える",
+    "sha": "4b1e7422844a59680ff39e10452eca7ffd59a93e",
+    "date": "2026-04"
+  },
+  {
+    "repo": "106-/106-.github.io",
+    "message": "github pagesにも公開",
+    "sha": "85a86bd91bbad3048c860e0d33138044d9080d8f",
+    "date": "2026-04"
+  },
+  {
+    "repo": "106-/jisshuu",
+    "message": "ちょっとアップデート",
+    "sha": "9d70e258f56fbceb262ef87584ba47e8cc0310ca",
+    "date": "2026-04"
   }
 ]
