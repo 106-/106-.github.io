@@ -72,60 +72,153 @@
             <p class="panel-tagline">
               Data Scientist / Machine Learning Engineer
             </p>
+            <button class="toggle-btn" id="toggle-btn" onclick="toggleTab()">
+              Commits
+            </button>
           </div>
-          <a
-            href="https://github.com/106-"
-            class="link-item"
-            target="_blank"
-            rel="noopener"
-          >
-            <div class="link-icon"><i class="fab fa-github"></i></div>
-            <div class="link-content">
-              <div class="link-title">github/106-</div>
+          <div id="tab-links" class="tab-pane">
+            <a
+              href="https://github.com/106-"
+              class="link-item"
+              target="_blank"
+              rel="noopener"
+              onclick="gaClick('github/106-')"
+            >
+              <div class="link-icon"><i class="fab fa-github"></i></div>
+              <div class="link-content">
+                <div class="link-title">github/106-</div>
+              </div>
+            </a>
+            <a
+              href="https://twitter.com/___106___"
+              class="link-item"
+              target="_blank"
+              rel="noopener"
+              onclick="gaClick('@___106___')"
+            >
+              <div class="link-icon"><i class="fab fa-twitter"></i></div>
+              <div class="link-content">
+                <div class="link-title">@___106___</div>
+              </div>
+            </a>
+            <a
+              href="https://www.slideshare.net/__106__"
+              class="link-item"
+              target="_blank"
+              rel="noopener"
+              onclick="gaClick('slideshare/__106__')"
+            >
+              <div class="link-icon"><i class="fab fa-slideshare"></i></div>
+              <div class="link-content">
+                <div class="link-title">slideshare/__106__</div>
+              </div>
+            </a>
+            <a
+              href="https://steamcommunity.com/profiles/76561198127476146/"
+              class="link-item"
+              target="_blank"
+              rel="noopener"
+              onclick="gaClick('Steam/__106__')"
+            >
+              <div class="link-icon"><i class="fab fa-steam"></i></div>
+              <div class="link-content">
+                <div class="link-title">Steam/__106__</div>
+              </div>
+            </a>
+            <div class="link-item" style="cursor: default">
+              <div class="link-icon"><i class="fas fa-envelope"></i></div>
+              <div class="link-content">
+                <div class="link-title">segmentation-fault[at]yandex.com</div>
+              </div>
             </div>
-          </a>
-          <a
-            href="https://twitter.com/___106___"
-            class="link-item"
-            target="_blank"
-            rel="noopener"
-          >
-            <div class="link-icon"><i class="fab fa-twitter"></i></div>
-            <div class="link-content">
-              <div class="link-title">@___106___</div>
-            </div>
-          </a>
-          <a
-            href="https://www.slideshare.net/__106__"
-            class="link-item"
-            target="_blank"
-            rel="noopener"
-          >
-            <div class="link-icon"><i class="fab fa-slideshare"></i></div>
-            <div class="link-content">
-              <div class="link-title">slideshare/__106__</div>
-            </div>
-          </a>
-          <a
-            href="https://steamcommunity.com/profiles/76561198127476146/"
-            class="link-item"
-            target="_blank"
-            rel="noopener"
-          >
-            <div class="link-icon"><i class="fab fa-steam"></i></div>
-            <div class="link-content">
-              <div class="link-title">Steam/__106__</div>
-            </div>
-          </a>
-          <div class="link-item" style="cursor: default">
-            <div class="link-icon"><i class="fas fa-envelope"></i></div>
-            <div class="link-content">
-              <div class="link-title">segmentation-fault[at]yandex.com</div>
+          </div>
+          <div id="tab-commits" class="tab-pane" style="display: none">
+            <div id="commits-list">
+              <div class="commit-loading">Loading...</div>
             </div>
           </div>
         </div>
       </div>
     </section>
+    <script>
+      var currentTab = "links";
+
+      function toggleTab() {
+        currentTab = currentTab === "links" ? "commits" : "links";
+        document.getElementById("tab-links").style.display =
+          currentTab === "links" ? "" : "none";
+        document.getElementById("tab-commits").style.display =
+          currentTab === "commits" ? "" : "none";
+        document.getElementById("toggle-btn").textContent =
+          currentTab === "links" ? "Commits" : "Links";
+        if (
+          currentTab === "commits" &&
+          !document.getElementById("commits-list").dataset.loaded
+        ) {
+          loadCommits();
+        }
+      }
+
+      function loadCommits() {
+        fetch("data/commits.json")
+          .then(function (r) {
+            return r.json();
+          })
+          .then(function (commits) {
+            var list = document.getElementById("commits-list");
+            list.dataset.loaded = "1";
+            if (!commits.length) {
+              list.innerHTML =
+                '<div class="commit-loading">No commits found.</div>';
+              return;
+            }
+            list.innerHTML = commits
+              .map(function (c) {
+                var url = "https://github.com/" + c.repo + "/commit/" + c.sha;
+                return (
+                  '<a href="' +
+                  url +
+                  '" class="link-item link-item--compact" target="_blank" rel="noopener" onclick="gaClick(\'commit:' +
+                  escapeHtml(c.repo) +
+                  "')\">" +
+                  '<div class="link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" width="22" height="22"><line x1="2" y1="12" x2="7" y2="12"/><circle cx="12" cy="12" r="4" fill="currentColor" stroke="none"/><line x1="17" y1="12" x2="22" y2="12"/></svg></div>' +
+                  '<div class="link-content">' +
+                  '<div class="link-title commit-message">' +
+                  escapeHtml(c.message) +
+                  "</div>" +
+                  '<div class="commit-meta">' +
+                  escapeHtml(c.repo) +
+                  " &middot; " +
+                  c.date +
+                  "</div>" +
+                  "</div></a>"
+                );
+              })
+              .join("");
+          })
+          .catch(function () {
+            document.getElementById("commits-list").innerHTML =
+              '<div class="commit-loading">Failed to load.</div>';
+          });
+      }
+
+      function gaClick(label) {
+        if (typeof gtag !== "undefined") {
+          gtag("event", "click", {
+            event_category: "outbound_link",
+            event_label: label,
+          });
+        }
+      }
+
+      function escapeHtml(s) {
+        return s
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;");
+      }
+    </script>
     <script
       src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
       integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"

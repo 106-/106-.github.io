@@ -48,6 +48,9 @@ a:visited {
 }
 
 .panel-divider {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
   padding-top: clamp(4px, 1vw, 6px);
   padding-bottom: clamp(4px, 1vw, 6px);
@@ -113,6 +116,56 @@ a:visited {
   font-size: clamp(12px, 3vw, 14px);
   line-height: 1.4;
   font-family: Arial, sans-serif;
+}
+
+.toggle-btn {
+  background: none;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #cccccc;
+  padding: 4px 14px;
+  font-size: 13px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-family: Arial, sans-serif;
+  transition: all 0.2s ease;
+}
+
+.toggle-btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+
+.link-item--compact {
+  padding: clamp(6px, 1.5vw, 8px) 0;
+}
+
+.link-item--compact .link-icon {
+  width: clamp(28px, 5vw, 32px);
+  height: clamp(28px, 5vw, 32px);
+  font-size: clamp(12px, 2.5vw, 14px);
+  margin-right: clamp(8px, 2vw, 12px);
+}
+
+.commit-message {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.commit-meta {
+  color: #888888;
+  font-size: clamp(11px, 2.5vw, 13px);
+  font-family: Arial, sans-serif;
+  margin-top: 2px;
+}
+
+.commit-loading {
+  color: #888888;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  padding: 16px 0;
+  text-align: center;
 }
 
 @media (max-width: 576px) {
