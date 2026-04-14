@@ -1,5 +1,11 @@
 [
   {
+    "repo": "scipy/scipy.org",
+    "message": "Fix scipy link in japanese language page (#668)",
+    "sha": "cb7d59196daa6e1fb073b3a28dce624d936dec74",
+    "date": "2026-04"
+  },
+  {
     "repo": "106-/DRBM-tensorflow",
     "message": "tensorflowのアップデート",
     "sha": "bba6c142193a8edd457f61b570118a779fcac102",
@@ -33,12 +39,6 @@
     "repo": "106-/DBM-tensorflow",
     "message": "tqdmの導入",
     "sha": "d59c770f1e0282b0a538aab86d8705462f237922",
-    "date": "2026-04"
-  },
-  {
-    "repo": "106-/DBM-tensorflow",
-    "message": "format",
-    "sha": "b0d2cd517e11219c338549b1639aa368ca131b67",
     "date": "2026-04"
   }
 ]
