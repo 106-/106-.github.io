@@ -2,7 +2,8 @@ name: Update commits.json
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # 適当にピークタイムからずらしてみる
+    - cron: "5 9 * * *"
   workflow_dispatch:
 
 jobs:
