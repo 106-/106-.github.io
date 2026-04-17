@@ -1,5 +1,29 @@
 [
   {
+    "repo": "106-/106-.github.io",
+    "message": "元アイコンの追加",
+    "sha": "f28950f59e1141d88146b3fe4b523b8c182fe7fb",
+    "date": "2026-04"
+  },
+  {
+    "repo": "106-/106-.github.io",
+    "message": "ファイル順変える",
+    "sha": "24fad57d290775c613eba41a634c1515296442a2",
+    "date": "2026-04"
+  },
+  {
+    "repo": "106-/106-.github.io",
+    "message": "もうちょっと大きく",
+    "sha": "4843caebfa7130ef2517f4208ba8869b62e933ba",
+    "date": "2026-04"
+  },
+  {
+    "repo": "106-/106-.github.io",
+    "message": "キメ顔を追加",
+    "sha": "1a6af06202ff7dd1c68d5ee6af162b27f830e254",
+    "date": "2026-04"
+  },
+  {
     "repo": "scipy/scipy.org",
     "message": "Fix scipy link in japanese language page (#668)",
     "sha": "cb7d59196daa6e1fb073b3a28dce624d936dec74",
@@ -15,30 +39,6 @@
     "repo": "106-/DBM-tensorflow",
     "message": "Clarify output files in results section",
     "sha": "762d2f1202402bcea579609bb37517d1c637af69",
-    "date": "2026-04"
-  },
-  {
-    "repo": "106-/DBM-tensorflow",
-    "message": "READMEをちょっとアップデート",
-    "sha": "bf1e6b0f7df43172ba215ae75ec9678d1af8c4e1",
-    "date": "2026-04"
-  },
-  {
-    "repo": "106-/DBM-tensorflow",
-    "message": "mltoolsをsubmoduleから通常ファイルに移行",
-    "sha": "42407893f728754b0e319eca29c294587e5ffebb",
-    "date": "2026-04"
-  },
-  {
-    "repo": "106-/DBM-tensorflow",
-    "message": "CIの追加",
-    "sha": "d9df04b7196fab95b3fa1cc62d749670dc5ca9f0",
-    "date": "2026-04"
-  },
-  {
-    "repo": "106-/DBM-tensorflow",
-    "message": "tqdmの導入",
-    "sha": "d59c770f1e0282b0a538aab86d8705462f237922",
     "date": "2026-04"
   }
 ]
