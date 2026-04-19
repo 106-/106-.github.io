@@ -1,5 +1,17 @@
 [
   {
+    "repo": "106-/futaba2dat",
+    "message": "format",
+    "sha": "6dacc52885d14bbfb62f0a8df048bdd2b5a0cbcd",
+    "date": "2026-04"
+  },
+  {
+    "repo": "106-/futaba2dat",
+    "message": "uvの導入",
+    "sha": "4ac2bd2659a6dd88df9209079ad8f622b4c5d988",
+    "date": "2026-04"
+  },
+  {
     "repo": "106-/106-.github.io",
     "message": "元アイコンの追加",
     "sha": "f28950f59e1141d88146b3fe4b523b8c182fe7fb",
@@ -27,18 +39,6 @@
     "repo": "scipy/scipy.org",
     "message": "Fix scipy link in japanese language page (#668)",
     "sha": "cb7d59196daa6e1fb073b3a28dce624d936dec74",
-    "date": "2026-04"
-  },
-  {
-    "repo": "106-/DRBM-tensorflow",
-    "message": "tensorflowのアップデート",
-    "sha": "bba6c142193a8edd457f61b570118a779fcac102",
-    "date": "2026-04"
-  },
-  {
-    "repo": "106-/DBM-tensorflow",
-    "message": "Clarify output files in results section",
-    "sha": "762d2f1202402bcea579609bb37517d1c637af69",
     "date": "2026-04"
   }
 ]
