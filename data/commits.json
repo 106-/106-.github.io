@@ -1,5 +1,23 @@
 [
   {
+    "repo": "106-/LoveLetter",
+    "message": "bump version",
+    "sha": "d36509f9e8c6ab89ac1dfb851238a8acc58bf98e",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/LoveLetter",
+    "message": "モデル名のハードコードを消す",
+    "sha": "8508a4567fd9757373446f31459c6ca46663ee06",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/LoveLetter",
+    "message": "プレイヤーにAIエージェントを追加できるようにする",
+    "sha": "9a815b4c6ed866a7ae52fdb5ed7e5877ed56f04e",
+    "date": "2026-05"
+  },
+  {
     "repo": "106-/futaba2dat",
     "message": "format",
     "sha": "6dacc52885d14bbfb62f0a8df048bdd2b5a0cbcd",
@@ -21,24 +39,6 @@
     "repo": "106-/106-.github.io",
     "message": "ファイル順変える",
     "sha": "24fad57d290775c613eba41a634c1515296442a2",
-    "date": "2026-04"
-  },
-  {
-    "repo": "106-/106-.github.io",
-    "message": "もうちょっと大きく",
-    "sha": "4843caebfa7130ef2517f4208ba8869b62e933ba",
-    "date": "2026-04"
-  },
-  {
-    "repo": "106-/106-.github.io",
-    "message": "キメ顔を追加",
-    "sha": "1a6af06202ff7dd1c68d5ee6af162b27f830e254",
-    "date": "2026-04"
-  },
-  {
-    "repo": "scipy/scipy.org",
-    "message": "Fix scipy link in japanese language page (#668)",
-    "sha": "cb7d59196daa6e1fb073b3a28dce624d936dec74",
     "date": "2026-04"
   }
 ]
