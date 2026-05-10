@@ -1,44 +1,44 @@
 [
   {
-    "repo": "106-/LoveLetter",
-    "message": "bump version",
-    "sha": "d36509f9e8c6ab89ac1dfb851238a8acc58bf98e",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/LoveLetter",
-    "message": "モデル名のハードコードを消す",
-    "sha": "8508a4567fd9757373446f31459c6ca46663ee06",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/LoveLetter",
-    "message": "プレイヤーにAIエージェントを追加できるようにする",
-    "sha": "9a815b4c6ed866a7ae52fdb5ed7e5877ed56f04e",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/futaba2dat",
+    "repo": "106-/paradox-script-mcp",
     "message": "format",
-    "sha": "6dacc52885d14bbfb62f0a8df048bdd2b5a0cbcd",
-    "date": "2026-04"
+    "sha": "5c7efd72708fb58c9c4b25f5d14c7c4e9130a8e3",
+    "date": "2026-05"
   },
   {
-    "repo": "106-/futaba2dat",
-    "message": "uvの導入",
-    "sha": "4ac2bd2659a6dd88df9209079ad8f622b4c5d988",
-    "date": "2026-04"
+    "repo": "106-/paradox-script-mcp",
+    "message": "Add Victoria 3 🚂 & Crusader Kings III 👑 Support",
+    "sha": "26c850dd95dea5aff36b00808d78bb9f03c992ba",
+    "date": "2026-05"
   },
   {
-    "repo": "106-/106-.github.io",
-    "message": "元アイコンの追加",
-    "sha": "f28950f59e1141d88146b3fe4b523b8c182fe7fb",
-    "date": "2026-04"
+    "repo": "106-/paradox-script-mcp",
+    "message": "Move knowledge YAMLs into package for uvx compatibility",
+    "sha": "38b1cfcd0387eae97717389b00e389bc6b1c103c",
+    "date": "2026-05"
   },
   {
-    "repo": "106-/106-.github.io",
-    "message": "ファイル順変える",
-    "sha": "24fad57d290775c613eba41a634c1515296442a2",
-    "date": "2026-04"
+    "repo": "106-/paradox-script-mcp",
+    "message": "Add EU5🧭 support",
+    "sha": "2370615870958d44cd5508215f8560b17c705b98",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/paradox-script-mcp",
+    "message": "Add get_structure_by_id tool and find_symbol_at_line fallback",
+    "sha": "5835c8b486e828215994901641e057fcc1744491",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/paradox-script-mcp",
+    "message": "Add stellaris support🌠",
+    "sha": "f8561ce3e81270d99dbf0293d791d37154ba0dbc",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/paradox-script-mcp",
+    "message": "Add skill description",
+    "sha": "a25c56b4d46253aee9c653ed84f88faac260de8e",
+    "date": "2026-05"
   }
 ]
