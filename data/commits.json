@@ -1,5 +1,17 @@
 [
   {
+    "repo": "106-/jisshuu",
+    "message": "Include break line in README",
+    "sha": "9aa310df9daa73eb3b7123991f1605a022470468",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/jisshuu",
+    "message": "撮影場所の追加",
+    "sha": "ab869bc620938fc373c0a0565a1c1ff7cd71f1fc",
+    "date": "2026-05"
+  },
+  {
     "repo": "106-/tb303-simulator",
     "message": "Update README.md",
     "sha": "1e46eb4c083553e818117bc23ead57ce2d9e23a6",
@@ -27,18 +39,6 @@
     "repo": "106-/paradox-script-mcp",
     "message": "Move knowledge YAMLs into package for uvx compatibility",
     "sha": "38b1cfcd0387eae97717389b00e389bc6b1c103c",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/paradox-script-mcp",
-    "message": "Add EU5🧭 support",
-    "sha": "2370615870958d44cd5508215f8560b17c705b98",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/paradox-script-mcp",
-    "message": "Add get_structure_by_id tool and find_symbol_at_line fallback",
-    "sha": "5835c8b486e828215994901641e057fcc1744491",
     "date": "2026-05"
   }
 ]
