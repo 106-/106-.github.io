@@ -1,5 +1,17 @@
 [
   {
+    "repo": "106-/tb303-simulator",
+    "message": "🍿 Popcorn",
+    "sha": "6c08cd04df924b88c035bff9e4dc1012c5d78a49",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/tb303-simulator",
+    "message": "押した時に音を鳴らす",
+    "sha": "27aa384a707ead24ece378d1beafc8ff5fb5a88f",
+    "date": "2026-05"
+  },
+  {
     "repo": "106-/jisshuu",
     "message": "Include break line in README",
     "sha": "9aa310df9daa73eb3b7123991f1605a022470468",
@@ -27,18 +39,6 @@
     "repo": "106-/paradox-script-mcp",
     "message": "format",
     "sha": "5c7efd72708fb58c9c4b25f5d14c7c4e9130a8e3",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/paradox-script-mcp",
-    "message": "Add Victoria 3 🚂 & Crusader Kings III 👑 Support",
-    "sha": "26c850dd95dea5aff36b00808d78bb9f03c992ba",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/paradox-script-mcp",
-    "message": "Move knowledge YAMLs into package for uvx compatibility",
-    "sha": "38b1cfcd0387eae97717389b00e389bc6b1c103c",
     "date": "2026-05"
   }
 ]
