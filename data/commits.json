@@ -1,6 +1,12 @@
 [
   {
     "repo": "106-/tb303-simulator",
+    "message": "ファミコンぽい音をもっとTB303にする",
+    "sha": "489ff4b2ed24a54a5a38f629676f6b77098d30ca",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/tb303-simulator",
     "message": "🍿 Popcorn",
     "sha": "6c08cd04df924b88c035bff9e4dc1012c5d78a49",
     "date": "2026-05"
@@ -33,12 +39,6 @@
     "repo": "106-/tb303-simulator",
     "message": "Initial Commit",
     "sha": "0f93d1ef24e2e409d54411ad79f2f3790f0c2f17",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/paradox-script-mcp",
-    "message": "format",
-    "sha": "5c7efd72708fb58c9c4b25f5d14c7c4e9130a8e3",
     "date": "2026-05"
   }
 ]
