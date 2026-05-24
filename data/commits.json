@@ -1,44 +1,44 @@
 [
   {
+    "repo": "106-/streamlit-oh-no-test",
+    "message": "Using logger to output DOWN detection",
+    "sha": "4199c826e012b4cdb8cb61d1b0d85d99031208ac",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/streamlit-oh-no-test",
+    "message": "Add check script for detecting \"oh no\" page.",
+    "sha": "ed93a456951dab9f7c8a40468804718fbdde6bea",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/streamlit-oh-no-test",
+    "message": "Add README explaining why DOM-based monitoring is required",
+    "sha": "458f03670ac2e724c75ab846201d115318513e39",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/streamlit-oh-no-test",
+    "message": "Switch matrix size via st.secrets.HUGE",
+    "sha": "4f8da5f9e180b16420375258e2837e9dc88730b9",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/streamlit-oh-no-test",
+    "message": "Allocate ~5GiB numpy array to trigger OOM",
+    "sha": "da33e8cb0ef3d8be6a17997a5adfd4150fbc2dd2",
+    "date": "2026-05"
+  },
+  {
+    "repo": "106-/streamlit-oh-no-test",
+    "message": "Initial: minimal Streamlit app that calls sys.exit() to reproduce Oh no error",
+    "sha": "5abc23bc9d189a19fc4d1a27bc289aed308df7aa",
+    "date": "2026-05"
+  },
+  {
     "repo": "106-/tb303-simulator",
     "message": "ファミコンぽい音をもっとTB303にする",
     "sha": "489ff4b2ed24a54a5a38f629676f6b77098d30ca",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/tb303-simulator",
-    "message": "🍿 Popcorn",
-    "sha": "6c08cd04df924b88c035bff9e4dc1012c5d78a49",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/tb303-simulator",
-    "message": "押した時に音を鳴らす",
-    "sha": "27aa384a707ead24ece378d1beafc8ff5fb5a88f",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/jisshuu",
-    "message": "Include break line in README",
-    "sha": "9aa310df9daa73eb3b7123991f1605a022470468",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/jisshuu",
-    "message": "撮影場所の追加",
-    "sha": "ab869bc620938fc373c0a0565a1c1ff7cd71f1fc",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/tb303-simulator",
-    "message": "Update README.md",
-    "sha": "1e46eb4c083553e818117bc23ead57ce2d9e23a6",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/tb303-simulator",
-    "message": "Initial Commit",
-    "sha": "0f93d1ef24e2e409d54411ad79f2f3790f0c2f17",
     "date": "2026-05"
   }
 ]
