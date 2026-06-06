@@ -1,5 +1,11 @@
 [
   {
+    "repo": "106-/106-.github.io",
+    "message": "Add linkedin link",
+    "sha": "c57166e04f309b90fa0849ebdd4d84d8f319f836",
+    "date": "2026-06"
+  },
+  {
     "repo": "106-/streamlit-oh-no-test",
     "message": "Using logger to output DOWN detection",
     "sha": "4199c826e012b4cdb8cb61d1b0d85d99031208ac",
@@ -33,12 +39,6 @@
     "repo": "106-/streamlit-oh-no-test",
     "message": "Initial: minimal Streamlit app that calls sys.exit() to reproduce Oh no error",
     "sha": "5abc23bc9d189a19fc4d1a27bc289aed308df7aa",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/tb303-simulator",
-    "message": "ファミコンぽい音をもっとTB303にする",
-    "sha": "489ff4b2ed24a54a5a38f629676f6b77098d30ca",
     "date": "2026-05"
   }
 ]
