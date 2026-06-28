@@ -1,5 +1,17 @@
 [
   {
+    "repo": "106-/niconikolai-yezhov",
+    "message": "URLを追加",
+    "sha": "219212dea5997627b0f56845eee65848e93c5e40",
+    "date": "2026-06"
+  },
+  {
+    "repo": "106-/niconikolai-yezhov",
+    "message": "INITIAL COMMIT",
+    "sha": "de80e6eeda13fef0586b724750ae967235109cdd",
+    "date": "2026-06"
+  },
+  {
     "repo": "106-/tb303-simulator",
     "message": "Fableによるチューニング",
     "sha": "e61f05a555698b629b4c25e7b8b6a2e712d75c49",
@@ -28,17 +40,5 @@
     "message": "Add linkedin link",
     "sha": "c57166e04f309b90fa0849ebdd4d84d8f319f836",
     "date": "2026-06"
-  },
-  {
-    "repo": "106-/streamlit-oh-no-test",
-    "message": "Using logger to output DOWN detection",
-    "sha": "4199c826e012b4cdb8cb61d1b0d85d99031208ac",
-    "date": "2026-05"
-  },
-  {
-    "repo": "106-/streamlit-oh-no-test",
-    "message": "Add check script for detecting \"oh no\" page.",
-    "sha": "ed93a456951dab9f7c8a40468804718fbdde6bea",
-    "date": "2026-05"
   }
 ]
