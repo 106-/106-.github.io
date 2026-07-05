@@ -1,5 +1,17 @@
 [
   {
+    "repo": "106-/UnpackMemoryPack",
+    "message": "rust化とか",
+    "sha": "f9f674ace4fdb179fef8dc6ce9a09ba39a41e378",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/UnpackMemoryPack",
+    "message": "Initial commit: MemoryPack schema inference toolkit",
+    "sha": "aad0eb3bab977a52b243e06a90f7b3e07a552baa",
+    "date": "2026-07"
+  },
+  {
     "repo": "106-/niconikolai-yezhov",
     "message": "URLを追加",
     "sha": "219212dea5997627b0f56845eee65848e93c5e40",
@@ -27,18 +39,6 @@
     "repo": "106-/groove-tengoku-vi",
     "message": "画像の追加",
     "sha": "eb51e7dcf9be298ce49b2a1de295ab8ca9f97713",
-    "date": "2026-06"
-  },
-  {
-    "repo": "106-/groove-tengoku-vi",
-    "message": "グルーヴ天国VI 初版",
-    "sha": "80903a13b4dec4987ef0978b8169658d976e502c",
-    "date": "2026-06"
-  },
-  {
-    "repo": "106-/106-.github.io",
-    "message": "Add linkedin link",
-    "sha": "c57166e04f309b90fa0849ebdd4d84d8f319f836",
     "date": "2026-06"
   }
 ]
