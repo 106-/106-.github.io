@@ -1,5 +1,23 @@
 [
   {
+    "repo": "106-/niconikolai-yezhov",
+    "message": "セッションログの有効化",
+    "sha": "98510e560cef6033a248cbe73037e3d4634773dd",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/niconikolai-yezhov",
+    "message": "READMEのアップデート",
+    "sha": "80fb562a5992bcb4af49917382f07254e843c58c",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/niconikolai-yezhov",
+    "message": "色々変更",
+    "sha": "d25a03cc95e4377b355978dc547b0297991aacaa",
+    "date": "2026-07"
+  },
+  {
     "repo": "106-/UnpackMemoryPack",
     "message": "rust化とか",
     "sha": "f9f674ace4fdb179fef8dc6ce9a09ba39a41e378",
@@ -13,32 +31,14 @@
   },
   {
     "repo": "106-/niconikolai-yezhov",
-    "message": "URLを追加",
-    "sha": "219212dea5997627b0f56845eee65848e93c5e40",
+    "message": "プレゼン資料を追加",
+    "sha": "635fc248b988c23f8efacf5b54066f862a8d50e7",
     "date": "2026-06"
   },
   {
     "repo": "106-/niconikolai-yezhov",
-    "message": "INITIAL COMMIT",
-    "sha": "de80e6eeda13fef0586b724750ae967235109cdd",
-    "date": "2026-06"
-  },
-  {
-    "repo": "106-/tb303-simulator",
-    "message": "Fableによるチューニング",
-    "sha": "e61f05a555698b629b4c25e7b8b6a2e712d75c49",
-    "date": "2026-06"
-  },
-  {
-    "repo": "106-/groove-tengoku-vi",
-    "message": "全体プリセットを7種追加(ドラムンベース/エレクトロ/ラテン/ブレイクビーツ/ダウンテンポ/ピコピコ/ガバ)",
-    "sha": "cb577013ef63da6ef6b3c7ed3cf08bb0bd5009d7",
-    "date": "2026-06"
-  },
-  {
-    "repo": "106-/groove-tengoku-vi",
-    "message": "画像の追加",
-    "sha": "eb51e7dcf9be298ce49b2a1de295ab8ca9f97713",
+    "message": "URLを追加",
+    "sha": "219212dea5997627b0f56845eee65848e93c5e40",
     "date": "2026-06"
   }
 ]
