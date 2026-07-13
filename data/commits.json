@@ -1,44 +1,44 @@
 [
   {
-    "repo": "106-/niconikolai-yezhov",
-    "message": "セッションログの有効化",
-    "sha": "98510e560cef6033a248cbe73037e3d4634773dd",
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "迎撃ロジックの修正",
+    "sha": "de76fa428e1a03599acf795e64898c6063a6beb5",
     "date": "2026-07"
   },
   {
-    "repo": "106-/niconikolai-yezhov",
-    "message": "READMEのアップデート",
-    "sha": "80fb562a5992bcb4af49917382f07254e843c58c",
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "更に修正",
+    "sha": "019bbe27d4191e84ff989e7497c68bb1d5b008f0",
     "date": "2026-07"
   },
   {
-    "repo": "106-/niconikolai-yezhov",
-    "message": "色々変更",
-    "sha": "d25a03cc95e4377b355978dc547b0297991aacaa",
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "色々修正",
+    "sha": "56a26cf3417789caa14bb90a72954c82ec3ed647",
     "date": "2026-07"
   },
   {
-    "repo": "106-/UnpackMemoryPack",
-    "message": "rust化とか",
-    "sha": "f9f674ace4fdb179fef8dc6ce9a09ba39a41e378",
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "Add footer with GitHub repository link",
+    "sha": "1b5003fa78c76c923792a328b1c2cc096a84a511",
     "date": "2026-07"
   },
   {
-    "repo": "106-/UnpackMemoryPack",
-    "message": "Initial commit: MemoryPack schema inference toolkit",
-    "sha": "aad0eb3bab977a52b243e06a90f7b3e07a552baa",
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "Add .nojekyll to skip Jekyll processing on GitHub Pages",
+    "sha": "ecc1427649526335cd3dc2c534376f13ea6c76a7",
     "date": "2026-07"
   },
   {
-    "repo": "106-/niconikolai-yezhov",
-    "message": "プレゼン資料を追加",
-    "sha": "635fc248b988c23f8efacf5b54066f862a8d50e7",
-    "date": "2026-06"
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "Initial commit",
+    "sha": "a00c8b0adc0d1792ded9976f3b5128753d95c605",
+    "date": "2026-07"
   },
   {
-    "repo": "106-/niconikolai-yezhov",
-    "message": "URLを追加",
-    "sha": "219212dea5997627b0f56845eee65848e93c5e40",
-    "date": "2026-06"
+    "repo": "106-/hoi4-sigint",
+    "message": "Fix the dashboard crashing the whole capture under high command volume",
+    "sha": "65d109d9593f2643f556625c08e3bc61c55e1751",
+    "date": "2026-07"
   }
 ]
