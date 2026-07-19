@@ -1,44 +1,44 @@
 [
   {
     "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "他ユニットのパーツ種別の追加",
-    "sha": "82b0907c046a139e8ba03d88effb383efe8e8044",
+    "message": "アンカーフォース改はプレイアブル",
+    "sha": "583346eae3f1977d2565d34afde48e70bfb6ae40",
     "date": "2026-07"
   },
   {
     "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "艦船フラグをより厳密にする",
-    "sha": "d58f79af3bdb7582ab4c6f71d7684333e0c6c30f",
+    "message": "プレイアブル判定を間違えていた",
+    "sha": "239fde6579fbf811f0992b80bf99bd514cdddbf4",
     "date": "2026-07"
   },
   {
     "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "編隊→艦船でないユニットとする(ゲインズやダイダロスが表示されてなかった)",
-    "sha": "c36640a07042f93b0a8ebe7888fefe221db4e3af",
+    "message": "リファクタリング",
+    "sha": "b60f38fd078df38b0493fe072ed2d0a4c3344af0",
     "date": "2026-07"
   },
   {
     "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "最低乱数での確殺攻撃回数表示の追加",
-    "sha": "c4ac5e0cf776194f32fde88524b202af2937ccab",
+    "message": "加速系、デコイ系のプレイアブルを戻す",
+    "sha": "829e21fe9a5dc172ee0aa9a29b7cf3bd0bdf3b3a",
     "date": "2026-07"
   },
   {
     "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "一様乱数であることを明記",
-    "sha": "00059a5f857e46c692bd8bf93ba15db7049e5c2d",
+    "message": "パーツ類の親子表示を追加",
+    "sha": "1771be17fd790c2b7f409930e058c78915166241",
     "date": "2026-07"
   },
   {
     "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "冗長な記述の排除",
-    "sha": "f5f7ea5e80170f41278fd9a6fb1e00ced01c1bec",
+    "message": "「編隊ユニット」→「ユニット」",
+    "sha": "9b023ef5d6eee78d47869701df540b6ce86fdc79",
     "date": "2026-07"
   },
   {
     "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "HPユニットに対する上端下端の半端なダメージ予測を許容する",
-    "sha": "58f6cd71fae3a1cb4ccb499f5daaebe6c43c5b7f",
+    "message": "パ→バ",
+    "sha": "a8e09ef4ca7096fa1688b5e218a870a0805d3b0f",
     "date": "2026-07"
   }
 ]
