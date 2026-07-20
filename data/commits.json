@@ -1,6 +1,24 @@
 [
   {
     "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "フィリター条件をリセットしないようにする",
+    "sha": "74ef82fd4129629dedb478cf55f381314b0608af",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "攻守入れ替えボタンの追加",
+    "sha": "26391a984c09004993a79db99609be3933b7ad24",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "スマホ表示の調整",
+    "sha": "3afcf9d9a3bde98d0d1623c74a9fd544325549f4",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/r-type-tactics-damage-simulator",
     "message": "アンカーフォース改はプレイアブル",
     "sha": "583346eae3f1977d2565d34afde48e70bfb6ae40",
     "date": "2026-07"
@@ -21,24 +39,6 @@
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "加速系、デコイ系のプレイアブルを戻す",
     "sha": "829e21fe9a5dc172ee0aa9a29b7cf3bd0bdf3b3a",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "パーツ類の親子表示を追加",
-    "sha": "1771be17fd790c2b7f409930e058c78915166241",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "「編隊ユニット」→「ユニット」",
-    "sha": "9b023ef5d6eee78d47869701df540b6ce86fdc79",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "パ→バ",
-    "sha": "a8e09ef4ca7096fa1688b5e218a870a0805d3b0f",
     "date": "2026-07"
   }
 ]
