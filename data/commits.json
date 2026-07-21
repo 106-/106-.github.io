@@ -1,5 +1,17 @@
 [
   {
+    "repo": "106-/groove-jigoku-vi",
+    "message": "細部の調整",
+    "sha": "655d251574c09416507e4addc120a68823fb5d57",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/groove-jigoku-vi",
+    "message": "initial commit",
+    "sha": "a3b34f0633e7137ec125300aa6dabe525a3aabd9",
+    "date": "2026-07"
+  },
+  {
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "フィリター条件をリセットしないようにする",
     "sha": "74ef82fd4129629dedb478cf55f381314b0608af",
@@ -27,18 +39,6 @@
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "プレイアブル判定を間違えていた",
     "sha": "239fde6579fbf811f0992b80bf99bd514cdddbf4",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "リファクタリング",
-    "sha": "b60f38fd078df38b0493fe072ed2d0a4c3344af0",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "加速系、デコイ系のプレイアブルを戻す",
-    "sha": "829e21fe9a5dc172ee0aa9a29b7cf3bd0bdf3b3a",
     "date": "2026-07"
   }
 ]
