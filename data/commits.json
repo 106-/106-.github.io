@@ -1,5 +1,11 @@
 [
   {
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "回避率がゲーム上で間違って表示されているっぽいことへの言及",
+    "sha": "d160fb0b2c0fd93e82370d344965c248a4784745",
+    "date": "2026-07"
+  },
+  {
     "repo": "106-/groove-jigoku-vi",
     "message": "細部の調整",
     "sha": "655d251574c09416507e4addc120a68823fb5d57",
@@ -33,12 +39,6 @@
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "アンカーフォース改はプレイアブル",
     "sha": "583346eae3f1977d2565d34afde48e70bfb6ae40",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "プレイアブル判定を間違えていた",
-    "sha": "239fde6579fbf811f0992b80bf99bd514cdddbf4",
     "date": "2026-07"
   }
 ]
