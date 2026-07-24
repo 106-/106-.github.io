@@ -1,6 +1,12 @@
 [
   {
     "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "プロミネンスや流星などの壊せない系オブジェクトを除外する",
+    "sha": "7c0e5cd93961c3fb8e9632e38846bdc8b4548974",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/r-type-tactics-damage-simulator",
     "message": "部分遮蔽の条件をより明確にする",
     "sha": "c0bc3d3b0a9fff02382a592919a275e7007f808e",
     "date": "2026-07"
@@ -33,12 +39,6 @@
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "フィリター条件をリセットしないようにする",
     "sha": "74ef82fd4129629dedb478cf55f381314b0608af",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "攻守入れ替えボタンの追加",
-    "sha": "26391a984c09004993a79db99609be3933b7ad24",
     "date": "2026-07"
   }
 ]
