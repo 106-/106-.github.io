@@ -1,6 +1,18 @@
 [
   {
     "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "残っていた\"バイパス\"を変える",
+    "sha": "04bb9081175a2dc62b191e15369e6b922278d335",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "冗長な説明、無用な言葉、紛らわしい表現の修正",
+    "sha": "4382ee15a05c5c49d86a26c789be9cd165ba67b8",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/r-type-tactics-damage-simulator",
     "message": "プロミネンスや流星などの壊せない系オブジェクトを除外する",
     "sha": "7c0e5cd93961c3fb8e9632e38846bdc8b4548974",
     "date": "2026-07"
@@ -27,18 +39,6 @@
     "repo": "106-/groove-jigoku-vi",
     "message": "細部の調整",
     "sha": "655d251574c09416507e4addc120a68823fb5d57",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/groove-jigoku-vi",
-    "message": "initial commit",
-    "sha": "a3b34f0633e7137ec125300aa6dabe525a3aabd9",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "フィリター条件をリセットしないようにする",
-    "sha": "74ef82fd4129629dedb478cf55f381314b0608af",
     "date": "2026-07"
   }
 ]
