@@ -1,6 +1,12 @@
 [
   {
     "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "乱数シード推定器の追加",
+    "sha": "a3d1d8119688276379ce73e55eb4a9f21a2b57a7",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/r-type-tactics-damage-simulator",
     "message": "残っていた\"バイパス\"を変える",
     "sha": "04bb9081175a2dc62b191e15369e6b922278d335",
     "date": "2026-07"
@@ -33,12 +39,6 @@
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "回避率がゲーム上で間違って表示されているっぽいことへの言及",
     "sha": "d160fb0b2c0fd93e82370d344965c248a4784745",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/groove-jigoku-vi",
-    "message": "細部の調整",
-    "sha": "655d251574c09416507e4addc120a68823fb5d57",
     "date": "2026-07"
   }
 ]
