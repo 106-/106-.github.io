@@ -1,5 +1,17 @@
 [
   {
+    "repo": "106-/groove-jigoku-vi",
+    "message": "Modulationの追加",
+    "sha": "aa8741acd890c310ff80beacf2712961e4a2b37a",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/groove-jigoku-vi",
+    "message": "feat: ディスクリプレイ再生とTECH挙動を原作準拠に拡張",
+    "sha": "09cec2b02bec670303f5233be9addbae14bf312f",
+    "date": "2026-07"
+  },
+  {
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "乱数シード推定器の追加",
     "sha": "a3d1d8119688276379ce73e55eb4a9f21a2b57a7",
@@ -27,18 +39,6 @@
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "部分遮蔽の条件をより明確にする",
     "sha": "c0bc3d3b0a9fff02382a592919a275e7007f808e",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "戦闘アニメーションの矢印表示について追記",
-    "sha": "41a6ac37dd153fc1f579fd329c205bddad7ac8e8",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "回避率がゲーム上で間違って表示されているっぽいことへの言及",
-    "sha": "d160fb0b2c0fd93e82370d344965c248a4784745",
     "date": "2026-07"
   }
 ]
