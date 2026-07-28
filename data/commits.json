@@ -1,6 +1,30 @@
 [
   {
     "repo": "106-/groove-jigoku-vi",
+    "message": "説明書にあった正式名称にする",
+    "sha": "e4ea0806bc1e51f41a952122f4642d31153beee0",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/groove-jigoku-vi",
+    "message": "グルーヴ地獄にはボールペンコウジョウが必要",
+    "sha": "0988867a24d46321e3f9a58925669a4f544b5743",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/groove-jigoku-vi",
+    "message": "タイムライン編集機能の追加",
+    "sha": "045d117aec6a511997fdae6ff602b0b2b38ee25a",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/groove-jigoku-vi",
+    "message": "余韻の導入",
+    "sha": "6aba5b6b6552bdb2f5d7bf080dcc2a1ec1a7508b",
+    "date": "2026-07"
+  },
+  {
+    "repo": "106-/groove-jigoku-vi",
     "message": "Modulationの追加",
     "sha": "aa8741acd890c310ff80beacf2712961e4a2b37a",
     "date": "2026-07"
@@ -15,30 +39,6 @@
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "乱数シード推定器の追加",
     "sha": "a3d1d8119688276379ce73e55eb4a9f21a2b57a7",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "残っていた\"バイパス\"を変える",
-    "sha": "04bb9081175a2dc62b191e15369e6b922278d335",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "冗長な説明、無用な言葉、紛らわしい表現の修正",
-    "sha": "4382ee15a05c5c49d86a26c789be9cd165ba67b8",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "プロミネンスや流星などの壊せない系オブジェクトを除外する",
-    "sha": "7c0e5cd93961c3fb8e9632e38846bdc8b4548974",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "部分遮蔽の条件をより明確にする",
-    "sha": "c0bc3d3b0a9fff02382a592919a275e7007f808e",
     "date": "2026-07"
   }
 ]
