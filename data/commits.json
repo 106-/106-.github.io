@@ -1,5 +1,17 @@
 [
   {
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "カタカナ曖昧検索の追加",
+    "sha": "b624743e7148882f6831994b8bda3a09c8e36b67",
+    "date": "2026-08"
+  },
+  {
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "パメラ/バメラどっちでも引けるようにする",
+    "sha": "f670e416c88e83de3ef342866d8ba2d721af2fc6",
+    "date": "2026-08"
+  },
+  {
     "repo": "106-/groove-jigoku-vi",
     "message": "ディレクトリ構造の整頓",
     "sha": "84596782f02daa09238e516657f3b0e35997863a",
@@ -27,18 +39,6 @@
     "repo": "106-/groove-jigoku-vi",
     "message": "ホットキー機能を追加",
     "sha": "684dc42db3af03eb2f16923410c5e32c5929ce94",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/groove-jigoku-vi",
-    "message": "TL再生中のボタン無効化",
-    "sha": "6a007b2753d0e8e109f132d2735a05484db98668",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/groove-jigoku-vi",
-    "message": "タイムラインUIの細かな修正",
-    "sha": "ae6b95c244d49d714e18d1e6c52ddf01906582c6",
     "date": "2026-07"
   }
 ]
