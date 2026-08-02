@@ -1,5 +1,17 @@
 [
   {
+    "repo": "106-/groove-jigoku-vi",
+    "message": "vercelリンクの追加",
+    "sha": "7c0a0e82c50b322200bf53bd615eeee1a2b57c23",
+    "date": "2026-08"
+  },
+  {
+    "repo": "106-/groove-jigoku-vi",
+    "message": "MCD(PSのメモリーカードデータ)からのリプレイ読み込みに対応",
+    "sha": "bdeecbd62def3b3d09e714d899e3874d8560d12a",
+    "date": "2026-08"
+  },
+  {
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "カタカナ曖昧検索の追加",
     "sha": "b624743e7148882f6831994b8bda3a09c8e36b67",
@@ -27,18 +39,6 @@
     "repo": "106-/groove-jigoku-vi",
     "message": "ボールペンコウジョウの説明が抜けていた",
     "sha": "8c1f30fdc54c5b75c13ba61742dd02290e65b39c",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/groove-jigoku-vi",
-    "message": "READMEのアップデート",
-    "sha": "16f27fe4f62b220a16da2cd2de2e38fa79118f2c",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/groove-jigoku-vi",
-    "message": "ホットキー機能を追加",
-    "sha": "684dc42db3af03eb2f16923410c5e32c5929ce94",
     "date": "2026-07"
   }
 ]
