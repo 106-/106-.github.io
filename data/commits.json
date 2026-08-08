@@ -1,5 +1,11 @@
 [
   {
+    "repo": "106-/106-.github.io",
+    "message": "逆温度を意図的に非平衡にしてみる",
+    "sha": "e60ac868f6b86094d3005017788d1fd9c3649193",
+    "date": "2026-08"
+  },
+  {
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "迎撃係数・ユニットタイプ・可変占有HEXの変更",
     "sha": "08c99004bad31e929ff2b51a3840d5bfa08ec580",
@@ -33,12 +39,6 @@
     "repo": "106-/groove-jigoku-vi",
     "message": "ディレクトリ構造の整頓",
     "sha": "84596782f02daa09238e516657f3b0e35997863a",
-    "date": "2026-07"
-  },
-  {
-    "repo": "106-/groove-jigoku-vi",
-    "message": "チャプター修正",
-    "sha": "456dd5c933ef75da8ed4095342d140d08902eb65",
     "date": "2026-07"
   }
 ]
