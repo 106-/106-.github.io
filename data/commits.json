@@ -1,5 +1,17 @@
 [
   {
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "武器一覧DB機能の追加",
+    "sha": "d7ecfa736ace2a9d5c6a6728b9fbf17982c5eb8d",
+    "date": "2026-08"
+  },
+  {
+    "repo": "106-/r-type-tactics-damage-simulator",
+    "message": "武器の種類(Type/Motion/Material)についての説明を追加",
+    "sha": "b6b2e1a928d1b72825b85e671b5822e10a133729",
+    "date": "2026-08"
+  },
+  {
     "repo": "106-/106-.github.io",
     "message": "逆温度を意図的に非平衡にしてみる",
     "sha": "e60ac868f6b86094d3005017788d1fd9c3649193",
@@ -28,17 +40,5 @@
     "message": "カタカナ曖昧検索の追加",
     "sha": "b624743e7148882f6831994b8bda3a09c8e36b67",
     "date": "2026-08"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "パメラ/バメラどっちでも引けるようにする",
-    "sha": "f670e416c88e83de3ef342866d8ba2d721af2fc6",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/groove-jigoku-vi",
-    "message": "ディレクトリ構造の整頓",
-    "sha": "84596782f02daa09238e516657f3b0e35997863a",
-    "date": "2026-07"
   }
 ]
