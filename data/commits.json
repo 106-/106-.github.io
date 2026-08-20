@@ -1,5 +1,11 @@
 [
   {
+    "repo": "106-/groove-jigoku-vi",
+    "message": "音声録音機能の追加",
+    "sha": "13ec0be89976125180d7961e767ad1bf9ee31c58",
+    "date": "2026-08"
+  },
+  {
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "武器一覧DB機能の追加",
     "sha": "d7ecfa736ace2a9d5c6a6728b9fbf17982c5eb8d",
@@ -33,12 +39,6 @@
     "repo": "106-/groove-jigoku-vi",
     "message": "MCD(PSのメモリーカードデータ)からのリプレイ読み込みに対応",
     "sha": "bdeecbd62def3b3d09e714d899e3874d8560d12a",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "カタカナ曖昧検索の追加",
-    "sha": "b624743e7148882f6831994b8bda3a09c8e36b67",
     "date": "2026-08"
   }
 ]
