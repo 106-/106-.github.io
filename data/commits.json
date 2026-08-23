@@ -1,5 +1,17 @@
 [
   {
+    "repo": "106-/metropolis-hastings-playground",
+    "message": "サンプルごとに採択率の数値を表示するようにする",
+    "sha": "0a9ff56036dc0b3b352bc22bc68dba85584ccfd7",
+    "date": "2026-08"
+  },
+  {
+    "repo": "106-/metropolis-hastings-playground",
+    "message": "INITIAL COMMIT",
+    "sha": "1b5b140dd79fb22d9ad3f0f56ebac716d70e2325",
+    "date": "2026-08"
+  },
+  {
     "repo": "106-/groove-jigoku-vi",
     "message": "音声録音機能の追加",
     "sha": "13ec0be89976125180d7961e767ad1bf9ee31c58",
@@ -27,18 +39,6 @@
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "迎撃係数・ユニットタイプ・可変占有HEXの変更",
     "sha": "08c99004bad31e929ff2b51a3840d5bfa08ec580",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/groove-jigoku-vi",
-    "message": "vercelリンクの追加",
-    "sha": "7c0a0e82c50b322200bf53bd615eeee1a2b57c23",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/groove-jigoku-vi",
-    "message": "MCD(PSのメモリーカードデータ)からのリプレイ読み込みに対応",
-    "sha": "bdeecbd62def3b3d09e714d899e3874d8560d12a",
     "date": "2026-08"
   }
 ]
