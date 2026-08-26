@@ -1,5 +1,11 @@
 [
   {
+    "repo": "106-/claude-code-discord-agent",
+    "message": "uv移行など",
+    "sha": "57059af7e57058eb77fcc0749e33a24ea8021134",
+    "date": "2026-08"
+  },
+  {
     "repo": "106-/metropolis-hastings-playground",
     "message": "サンプルごとに採択率の数値を表示するようにする",
     "sha": "0a9ff56036dc0b3b352bc22bc68dba85584ccfd7",
@@ -33,12 +39,6 @@
     "repo": "106-/106-.github.io",
     "message": "逆温度を意図的に非平衡にしてみる",
     "sha": "e60ac868f6b86094d3005017788d1fd9c3649193",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "迎撃係数・ユニットタイプ・可変占有HEXの変更",
-    "sha": "08c99004bad31e929ff2b51a3840d5bfa08ec580",
     "date": "2026-08"
   }
 ]
