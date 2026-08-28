@@ -1,5 +1,11 @@
 [
   {
+    "repo": "106-/paradox-script-mcp",
+    "message": "Move YAML location",
+    "sha": "9befce6688a1b45f3e4c92554f2be7b9bf40fb6d",
+    "date": "2026-08"
+  },
+  {
     "repo": "106-/claude-code-discord-agent",
     "message": "uv移行など",
     "sha": "57059af7e57058eb77fcc0749e33a24ea8021134",
@@ -33,12 +39,6 @@
     "repo": "106-/r-type-tactics-damage-simulator",
     "message": "武器の種類(Type/Motion/Material)についての説明を追加",
     "sha": "b6b2e1a928d1b72825b85e671b5822e10a133729",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/106-.github.io",
-    "message": "逆温度を意図的に非平衡にしてみる",
-    "sha": "e60ac868f6b86094d3005017788d1fd9c3649193",
     "date": "2026-08"
   }
 ]
