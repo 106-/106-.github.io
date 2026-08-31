@@ -1,44 +1,44 @@
 [
   {
+    "repo": "106-/futaba2dat",
+    "message": "ログ書き込みを非同期とする",
+    "sha": "d49715000ad0c56737131a8e9d526f66eea9c23e",
+    "date": "2026-08"
+  },
+  {
+    "repo": "106-/futaba2dat",
+    "message": "devとtestの分離",
+    "sha": "1e6b69cf166e2d247b878d491f8876904e87d7a6",
+    "date": "2026-08"
+  },
+  {
     "repo": "106-/paradox-script-mcp",
     "message": "Move YAML location",
     "sha": "9befce6688a1b45f3e4c92554f2be7b9bf40fb6d",
     "date": "2026-08"
   },
   {
-    "repo": "106-/claude-code-discord-agent",
-    "message": "uv移行など",
-    "sha": "57059af7e57058eb77fcc0749e33a24ea8021134",
+    "repo": "106-/futaba2dat",
+    "message": "CICDが古かった",
+    "sha": "09bfa232606e4de6e80e01391214c0a1f0fdc7b8",
     "date": "2026-08"
   },
   {
-    "repo": "106-/metropolis-hastings-playground",
-    "message": "サンプルごとに採択率の数値を表示するようにする",
-    "sha": "0a9ff56036dc0b3b352bc22bc68dba85584ccfd7",
+    "repo": "106-/futaba2dat",
+    "message": "CI用の依存関係が抜けていた",
+    "sha": "33ebcb3d145471b5003df96db2c46be6e46e54e8",
     "date": "2026-08"
   },
   {
-    "repo": "106-/metropolis-hastings-playground",
-    "message": "INITIAL COMMIT",
-    "sha": "1b5b140dd79fb22d9ad3f0f56ebac716d70e2325",
+    "repo": "106-/futaba2dat",
+    "message": "キャッシュの導入",
+    "sha": "0b06e621b0edff719ec228daf3a5e70680adc121",
     "date": "2026-08"
   },
   {
-    "repo": "106-/groove-jigoku-vi",
-    "message": "音声録音機能の追加",
-    "sha": "13ec0be89976125180d7961e767ad1bf9ee31c58",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "武器一覧DB機能の追加",
-    "sha": "d7ecfa736ace2a9d5c6a6728b9fbf17982c5eb8d",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/r-type-tactics-damage-simulator",
-    "message": "武器の種類(Type/Motion/Material)についての説明を追加",
-    "sha": "b6b2e1a928d1b72825b85e671b5822e10a133729",
+    "repo": "106-/futaba2dat",
+    "message": "cf workersへ移行",
+    "sha": "f8a9f4dfb1c6625312107d601c0956f8e727e6fb",
     "date": "2026-08"
   }
 ]
