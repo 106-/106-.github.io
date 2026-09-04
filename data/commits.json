@@ -1,5 +1,11 @@
 [
   {
+    "repo": "106-/talent-vs-luck",
+    "message": "INITIAL COMMIT",
+    "sha": "b86b694a616ad0c2af18b20be0e17ffae8adf13a",
+    "date": "2026-09"
+  },
+  {
     "repo": "106-/futaba2dat",
     "message": "ログ書き込みを非同期とする",
     "sha": "d49715000ad0c56737131a8e9d526f66eea9c23e",
@@ -33,12 +39,6 @@
     "repo": "106-/futaba2dat",
     "message": "キャッシュの導入",
     "sha": "0b06e621b0edff719ec228daf3a5e70680adc121",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/futaba2dat",
-    "message": "cf workersへ移行",
-    "sha": "f8a9f4dfb1c6625312107d601c0956f8e727e6fb",
     "date": "2026-08"
   }
 ]
