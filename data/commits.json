@@ -1,5 +1,23 @@
 [
   {
+    "repo": "106-/futaba2dat",
+    "message": "ルーティング指定をカスタムドメインにする",
+    "sha": "700129ed7004c0fd13bfcc6ed88160e75ebb2450",
+    "date": "2026-09"
+  },
+  {
+    "repo": "106-/mcmc-playground",
+    "message": "repo名変更",
+    "sha": "3d271d73e4c9e8a19c3ee65b8325db64f5b2d802",
+    "date": "2026-09"
+  },
+  {
+    "repo": "106-/mcmc-playground",
+    "message": "ハミルトニアンモンテカルロとNUTSも実装する",
+    "sha": "ad575e74079a6fcb4bb7fc5fdfb44d989766949d",
+    "date": "2026-09"
+  },
+  {
     "repo": "106-/talent-vs-luck",
     "message": "INITIAL COMMIT",
     "sha": "b86b694a616ad0c2af18b20be0e17ffae8adf13a",
@@ -21,24 +39,6 @@
     "repo": "106-/paradox-script-mcp",
     "message": "Move YAML location",
     "sha": "9befce6688a1b45f3e4c92554f2be7b9bf40fb6d",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/futaba2dat",
-    "message": "CICDが古かった",
-    "sha": "09bfa232606e4de6e80e01391214c0a1f0fdc7b8",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/futaba2dat",
-    "message": "CI用の依存関係が抜けていた",
-    "sha": "33ebcb3d145471b5003df96db2c46be6e46e54e8",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/futaba2dat",
-    "message": "キャッシュの導入",
-    "sha": "0b06e621b0edff719ec228daf3a5e70680adc121",
     "date": "2026-08"
   }
 ]
