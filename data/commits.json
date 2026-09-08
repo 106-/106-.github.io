@@ -1,6 +1,12 @@
 [
   {
     "repo": "106-/futaba2dat",
+    "message": "動画サムネイルの追加",
+    "sha": "109bf161e2b074981d6d3b4a7a688c7028ec08ca",
+    "date": "2026-09"
+  },
+  {
+    "repo": "106-/futaba2dat",
     "message": "ルーティング指定をカスタムドメインにする",
     "sha": "700129ed7004c0fd13bfcc6ed88160e75ebb2450",
     "date": "2026-09"
@@ -33,12 +39,6 @@
     "repo": "106-/futaba2dat",
     "message": "devとtestの分離",
     "sha": "1e6b69cf166e2d247b878d491f8876904e87d7a6",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/paradox-script-mcp",
-    "message": "Move YAML location",
-    "sha": "9befce6688a1b45f3e4c92554f2be7b9bf40fb6d",
     "date": "2026-08"
   }
 ]
