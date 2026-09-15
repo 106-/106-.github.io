@@ -1,5 +1,29 @@
 [
   {
+    "repo": "106-/r-type-tactics-save-editor",
+    "message": "Update README",
+    "sha": "cea91832c8f1c0baecec511c367cdcb720e6c031",
+    "date": "2026-09"
+  },
+  {
+    "repo": "106-/r-type-tactics-save-editor",
+    "message": "Add save folder path copy button",
+    "sha": "25fb7035e33d325fcdc2e89dbdd343ef5d668a6c",
+    "date": "2026-09"
+  },
+  {
+    "repo": "106-/r-type-tactics-save-editor",
+    "message": "Update Pages workflow to Node.js 24",
+    "sha": "e9a210799bb0b7f8e8cbd407d0fdbba197ed545a",
+    "date": "2026-09"
+  },
+  {
+    "repo": "106-/r-type-tactics-save-editor",
+    "message": "INITIAL COMMIT",
+    "sha": "fe20740acd06a36df95fbedabd5f6c2a8ca25630",
+    "date": "2026-09"
+  },
+  {
     "repo": "106-/futaba2dat",
     "message": "動画サムネイルの追加",
     "sha": "109bf161e2b074981d6d3b4a7a688c7028ec08ca",
@@ -16,29 +40,5 @@
     "message": "repo名変更",
     "sha": "3d271d73e4c9e8a19c3ee65b8325db64f5b2d802",
     "date": "2026-09"
-  },
-  {
-    "repo": "106-/mcmc-playground",
-    "message": "ハミルトニアンモンテカルロとNUTSも実装する",
-    "sha": "ad575e74079a6fcb4bb7fc5fdfb44d989766949d",
-    "date": "2026-09"
-  },
-  {
-    "repo": "106-/talent-vs-luck",
-    "message": "INITIAL COMMIT",
-    "sha": "b86b694a616ad0c2af18b20be0e17ffae8adf13a",
-    "date": "2026-09"
-  },
-  {
-    "repo": "106-/futaba2dat",
-    "message": "ログ書き込みを非同期とする",
-    "sha": "d49715000ad0c56737131a8e9d526f66eea9c23e",
-    "date": "2026-08"
-  },
-  {
-    "repo": "106-/futaba2dat",
-    "message": "devとtestの分離",
-    "sha": "1e6b69cf166e2d247b878d491f8876904e87d7a6",
-    "date": "2026-08"
   }
 ]
