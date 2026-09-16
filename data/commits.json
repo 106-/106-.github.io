@@ -1,6 +1,18 @@
 [
   {
     "repo": "106-/r-type-tactics-save-editor",
+    "message": "Fix: encode long Kraken matches with canonical extended lengths",
+    "sha": "30476c6f688febee020fe07fac8a287dce9638ca",
+    "date": "2026-09"
+  },
+  {
+    "repo": "106-/r-type-tactics-save-editor",
+    "message": "Add an option to skip data compression",
+    "sha": "cf7f51abfb0dcddf1dbaf1fd6eb18cc6937e0e57",
+    "date": "2026-09"
+  },
+  {
+    "repo": "106-/r-type-tactics-save-editor",
     "message": "Update README",
     "sha": "cea91832c8f1c0baecec511c367cdcb720e6c031",
     "date": "2026-09"
@@ -27,18 +39,6 @@
     "repo": "106-/futaba2dat",
     "message": "動画サムネイルの追加",
     "sha": "109bf161e2b074981d6d3b4a7a688c7028ec08ca",
-    "date": "2026-09"
-  },
-  {
-    "repo": "106-/futaba2dat",
-    "message": "ルーティング指定をカスタムドメインにする",
-    "sha": "700129ed7004c0fd13bfcc6ed88160e75ebb2450",
-    "date": "2026-09"
-  },
-  {
-    "repo": "106-/mcmc-playground",
-    "message": "repo名変更",
-    "sha": "3d271d73e4c9e8a19c3ee65b8325db64f5b2d802",
     "date": "2026-09"
   }
 ]
